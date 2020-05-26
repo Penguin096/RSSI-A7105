@@ -10,7 +10,7 @@
 Питание от приемника 5В, имеем аналоговый выход RSSI 0-5В (в настройках osd лично я установил 100%-4В)
 
 ## ФЬЮЗЫ (16MHz)
-Lock byte 3F
-Fuse High Byte DD
-Fuse Low Byte E1
-Fuse Extended FE
+Lock byte 3F  
+Fuse High Byte DD  
+Fuse Low Byte E1  
+Fuse Extended FE  
